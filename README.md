@@ -66,7 +66,7 @@
 
 其中的正整数
 
-![](https://github.com/xxncx/Pipe_Game/blob/main/resources/image.png)
+<img src="https://github.com/xxncx/Pipe_Game/blob/main/resources/image.png" alt="image" style="zoom:30%;" />
 
 # 兼容性
 本项目在以下配置的电脑下可以正常运行：
