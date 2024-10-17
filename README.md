@@ -69,17 +69,28 @@
 # 兼容性
 本项目在以下配置的电脑下可以正常运行：
 型号：Lenovo ThinkPad E431
+
 系统信息：Windows 10 企业版 LTSC 21H2
+
 处理器：Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz
+
 内存：8GB DDR3
+
 显卡1：NVIDIA GeForce GT 740M
+
 显卡2：Intel(R) HD Graphics 4000
+
 声卡：Conexant 20671 SmartAudio HD
 
 # AI使用声明
 本项目在开发过程中使用了AI。
+
 AI在本项目中主要用于：
+
 1、标准化源程序
+
 2、为程序编写详尽的注释
+
 3、实现Python语言到C++语言的改写
+
 4、对源代码进行解释以便于开发
