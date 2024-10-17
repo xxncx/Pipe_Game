@@ -66,7 +66,7 @@
 
 其中的正整数
 
-<img src="D:\GitHub\Pipe_Game\resources\image.png" alt="image" style="zoom:30%;" />
+![](https://github.com/xxncx/Pipe_Game/blob/main/resources/image.png)
 
 # 兼容性
 本项目在以下配置的电脑下可以正常运行：
@@ -77,6 +77,7 @@
 显卡1：NVIDIA GeForce GT 740M
 显卡2：Intel(R) HD Graphics 4000
 声卡：Conexant 20671 SmartAudio HD
+
 # AI使用声明
 本项目在开发过程中使用了AI。
 AI在本项目中主要用于：
